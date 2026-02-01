@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KIOSK</string>
+    <string name="title_activity_main">KIOSK</string>
+    <string name="package_name">com.kiosk.marketplace</string>
+    <string name="custom_url_scheme">com.kiosk.marketplace</string>
+</resources>
